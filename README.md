@@ -1,2 +1,2 @@
 # VSeeFaceInstaller
-VSeeFaceInstaller by Jugmonity
+This Is My First Installer for VSeeFace... So Enjoy to use this!!!
